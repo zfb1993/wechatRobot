@@ -1,0 +1,7 @@
+{
+    "require": {
+        "overtrue/weather": "^1.0",
+        "nesbot/carbon": "^2.55",
+        "mitoop/robot": "^1.0"
+    }
+}

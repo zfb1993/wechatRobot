@@ -18,7 +18,7 @@ $config = [
         'wecom' => [
             'groups' => [
                 'clock' => [
-                    'webhook' => 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=99934929-b7fa-4538-9489-ace54d73cf44',
+                    'webhook' => 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=',
                     'at' => ['所有人'],
                     'show_env' => true,
                     'timeout' => 3,
